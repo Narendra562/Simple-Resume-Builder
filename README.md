@@ -22,7 +22,7 @@ cd resume-builder
 ```bash
 npm install
 ```
-4. Run the app
+4. Run the app in your pc
 ```bash
 npm run start
 ```
